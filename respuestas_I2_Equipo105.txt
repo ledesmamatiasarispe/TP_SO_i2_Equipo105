@@ -13,3 +13,10 @@ gamma-
 2) si, alfa pudo actualizar su fork a la ultima version del repositori ode beta
 3)  si, Gamma pudo actualizar su fork a la ultima version del repositori ode Alfa
 4) No, no se pierder se hace un marge y se resuelve el conflicto
+5) 	Git init
+	Git clone
+	Git pull
+	Git push
+	Git add 
+	Git commit
+	Git status
