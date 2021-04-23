@@ -11,3 +11,5 @@ orden de ejecución de los mismos junto con los apellidos y nombre de los alumno
 gamma-
 1) a traves del comando pull (LinkDelRepo). que es una combinacion de fetch + merge
 2) si, alfa pudo actualizar su fork a la ultima version del repositori ode beta
+3)  si, Gamma pudo actualizar su fork a la ultima version del repositori ode Alfa
+4) No, no se pierder se hace un marge y se resuelve el conflicto
